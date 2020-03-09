@@ -4,7 +4,7 @@ spring:
   application:
     name: order-service
   cloud:
-    congif:
+    config:
       override-none: true
     
 server:  port: 8201
